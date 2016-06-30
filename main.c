@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <sort1.h>
+#include <sort2.h>
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
