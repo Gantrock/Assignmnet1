@@ -13,7 +13,7 @@ testSort: main.o insertionSort.o
 #compiler rules
 main.o: main.c
 #gcc -c -I. main.c
-	$(CC) -c $(CFLAGS) main.c	
+	$(CC) -c $(CFLAGS) main.c sort1.c sort2.c	
 	 
 insertionSort.o:
 sort1.o: 
