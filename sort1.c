@@ -1,4 +1,4 @@
-#include "bubblesort.h"
+#include "bubbleSort.h"
 void bubble_sort(int list*, int n)
 {
   int c, d, t;
