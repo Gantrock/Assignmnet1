@@ -1,3 +1,4 @@
+#include "quick_sort.h";
 void quicksort(int *arr, int high)
 {
   int pivot, i, j, temp;
