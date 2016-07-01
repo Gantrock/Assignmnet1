@@ -1,1 +1,1 @@
-void bubble_sort(int *a, int n);
+void sort1(int *a, int n);
